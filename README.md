@@ -134,7 +134,7 @@ password - (your google account password)
 
 
 
-4. Snapshot of a sample run
+## Snapshot of a sample run
 
 Client Side :-
 
